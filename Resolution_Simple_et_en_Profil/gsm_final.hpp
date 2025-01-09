@@ -1,6 +1,3 @@
-Voici le code avec des commentaires ajoutés pour expliquer chaque partie :
-
-```cpp
 #ifndef _GSM_FINAL // Vérifie si la macro _GSM_FINAL n'est pas définie
 #define _GSM_FINAL // Définit la macro _GSM_FINAL si elle n'est pas définie
 
